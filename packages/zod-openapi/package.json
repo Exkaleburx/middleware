@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@asteasolutions/zod-to-openapi": "^7.0.0",
-    "@hono/zod-validator": "0.2.1"
+    "@hono/zod-validator": "0.7.2"
   },
   "engines": {
     "node": ">=16.0.0"
